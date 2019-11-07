@@ -1,3 +1,5 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "appService.defaultWebAppToDeploy": "/subscriptions/a6d258c9-ec2c-4f7f-a96a-bd28ce70f99e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/ronjafaltin",
+    "appService.deploySubpath": ""
 }
